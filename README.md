@@ -1,17 +1,6 @@
 # NETWORK-PACKET-ANALYZER-LUI3IN033
 A network packet analyzer java application. This was a project I worked on with the collabrtion of EL GHALI YOSR, under the supervision of PROMETHEE SPATHIS and KIM THAI.
 
-,--.  ,--.           ,--.                               ,--.       ,------.                    ,--.                  ,--.   
-|  ,'.|  |  ,---.  ,-'  '-. ,--.   ,--.  ,---.  ,--.--. |  |,-.    |  .--. ' ,--.--.  ,---.    `--'  ,---.   ,---. ,-'  '-. 
-|  |' '  | | .-. : '-.  .-' |  |.'.|  | | .-. | |  .--' |     /    |  '--' | |  .--' | .-. |   ,--. | .-. : | .--' '-.  .-' 
-|  | `   | \   --.   |  |   |   .'.   | ' '-' ' |  |    |  \  \    |  | --'  |  |    ' '-' '   |  | \   --. \ `--.   |  |   
-`--'  `--'  `----'   `--'   '--'   '--'  `---'  `--'    `--'`--'   `--'      `--'     `---'  .-'  /  `----'  `---'   `--'                                                                                
-  _      _   _   ___   ____  ___   _  _    __    ____  ____
- | |    | | | | |_ _| |__ / |_ _| | \| |  /  \  |__ / |__ /
- | |__  | |_| |  | |   |_ \  | |  | .` | | () |  |_ \  |_ \
- |____|  \___/  |___| |___/ |___| |_|\_|  \__/  |___/ |___/ 
-
-
 By BOUTALEB MOHAMED ALLAA EDDINE, EL GHALI YOSR.
 
 Useful info about our code Structure.
