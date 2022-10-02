@@ -1,0 +1,55 @@
+                                                                                                                                        ,------.  
+,--.  ,--.  ,-----.  ,--.   ,--.   ,--------.  ,-----.    ,--.      ,---.   ,--. ,--. ,--.  ,--.  ,-----. ,--.  ,--.   ,--. ,--------. '  .--.  ' 
+|  '--'  | '  .-.  ' |  |   |  |   '--.  .--' '  .-.  '   |  |     /  O  \  |  | |  | |  ,'.|  | '  .--./ |  '--'  |   |  | '--.  .--' '--' _|  | 
+|  .--.  | |  | |  | |  |.'.|  |      |  |    |  | |  |   |  |    |  .-.  | |  | |  | |  |' '  | |  |     |  .--.  |   |  |    |  |     .--' __'  
+|  |  |  | '  '-'  ' |   ,'.   |      |  |    '  '-'  '   |  '--. |  | |  | '  '-'  ' |  | `   | '  '--'\ |  |  |  |   |  |    |  |     `---'     
+`--'  `--'  `-----'  '--'   '--'      `--'     `-----'    `-----' `--' `--'  `-----'  `--'  `--'  `-----' `--'  `--'   `--'    `--'     .---.     
+                                                                                                                                        '---'  
+
+  ___   _  _   ___   _____   ___   _   _    ___   _____   ___    ___    _  _   ___ 
+ |_ _| | \| | / __| |_   _| | _ \ | | | |  / __| |_   _| |_ _|  / _ \  | \| | / __|
+  | |  | .` | \__ \   | |   |   / | |_| | | (__    | |    | |  | (_) | | .` | \__ \
+ |___| |_|\_| |___/   |_|   |_|_\  \___/   \___|   |_|   |___|  \___/  |_|\_| |___/
+                                                                                   
+
+1 - Make sure that JDK 11+ is installed in your machine. We recommend JDK 11.0.2 or a newer version such as JDK 17.
+
+  - If you are on Windows or Mac : 
+	2 - Double click on the .jar file to open it with Java Virtual Environment.
+
+    If you are on Linux:
+	2 - Open the linux terminal in the directory where the .jar file is located.
+	3 - type : chmod +x Analyser.jar
+	4 - Double click on the .jar file to execute it.
+
+Keep in mind that you can also execute the .jar file using the command : Java -jar Analyser.jar
+
+
+
+
+                                                                                                         ,------.  
+,--.  ,--.  ,-----.  ,--.   ,--.   ,--------.  ,-----.    ,--. ,--.  ,---.   ,------.   ,--. ,--------. '  .--.  ' 
+|  '--'  | '  .-.  ' |  |   |  |   '--.  .--' '  .-.  '   |  | |  | '   .-'  |  .---'   |  | '--.  .--' '--' _|  | 
+|  .--.  | |  | |  | |  |.'.|  |      |  |    |  | |  |   |  | |  | `.  `-.  |  `--,    |  |    |  |     .--' __'  
+|  |  |  | '  '-'  ' |   ,'.   |      |  |    '  '-'  '   '  '-'  ' .-'    | |  `---.   |  |    |  |     `---'     
+`--'  `--'  `-----'  '--'   '--'      `--'     `-----'     `-----'  `-----'  `------'   `--'    `--'     .---.     
+                                                                                                         '---' 
+  ___   _  _   ___   _____   ___   _   _    ___   _____   ___    ___    _  _   ___ 
+ |_ _| | \| | / __| |_   _| | _ \ | | | |  / __| |_   _| |_ _|  / _ \  | \| | / __|
+  | |  | .` | \__ \   | |   |   / | |_| | | (__    | |    | |  | (_) | | .` | \__ \
+ |___| |_|\_| |___/   |_|   |_|_\  \___/   \___|   |_|   |___|  \___/  |_|\_| |___/
+
+1 - Click on the open (Ouvrir) button to open the .txt file containing the packets you want to decode.
+
+2 - If your file was valid and didn't contain any offset errors, you will have a list of packets available. Select the packet you want to decode.
+    If your file was not valid, it will show you an error and the line it is located in. It will not give you the option to analyse or export until you fix the error.
+
+3 - Click on Analyse (Analyser) button.
+
+4 - Check the different fields (Brut, Ethernet, IP, UDP, DNS/DHCP) to see the decoded information.
+
+5 - Click on Export (Exporter) button to generate a .txt file containing the decode info of the selected packet. (Always make sure you have clicked on Analyse before exporting, otherwise you will generate an empty file)
+
+That's it! Enjoy, and thank you for using our small offline analyser.
+
+
