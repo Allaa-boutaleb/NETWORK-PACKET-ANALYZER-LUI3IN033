@@ -1,9 +1,9 @@
 # NETWORK-PACKET-ANALYZER-LUI3IN033
+### By BOUTALEB MOHAMED ALLAA EDDINE, EL GHALI YOSR.
+
 A network packet analyzer java application. This was a project I worked on with the collabrtion of EL GHALI YOSR, under the supervision of PROMETHEE SPATHIS and KIM THAI.
 
-By BOUTALEB MOHAMED ALLAA EDDINE, EL GHALI YOSR.
-
-Useful info about our code Structure.
+## TUTORIAL LINK AND SHOWCASE OF THE SOFTWARE : https://www.youtube.com/watch?v=APvsJgZAGxQ
 
 -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
 
